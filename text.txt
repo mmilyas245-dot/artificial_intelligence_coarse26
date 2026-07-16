@@ -1,0 +1,8 @@
+
+Since you’re learning programming:
+
+First learn JavaScript basics
+Then move to TypeScript
+Practice with small projects like:
+Student system
+To-do app
