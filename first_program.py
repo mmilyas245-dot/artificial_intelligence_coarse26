@@ -7,7 +7,7 @@ add=a+b
 minus=a-b
 multiply=a*b
 divide=a/b
-print("Addition is: ",add)
-print("Subtraction is: ",minus)
+print("Addition is = ",add)
+print("Subtraction is = ",minus)
 print("Multiplication is: ",multiply)
 print("Division is: ",divide)
